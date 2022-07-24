@@ -1,3 +1,7 @@
+// ====================================================================
+// Exact diagonalization of 1D Hubabbard model
+// ====================================================================
+
 # include<iostream>
 # include <eigen3/Eigen/Eigen>
 
